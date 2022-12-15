@@ -2,7 +2,7 @@
 
 ## Authors: Yan Tian, Nicholas Chiappinelli, Haojie Ge, Johnny Luis, Shuran Wang
 
->
+
 
 ### Link to the tutorial video: 
 
@@ -12,17 +12,20 @@
 
 ### Link to the project page: 
 
->
 
 
-### A brief introduction to the project:
-
-
+#### A brief introduction to the project:
 
 
 
-### Important Findings from EDA and ML:
+
+
+#### Important Findings from EDA and ML:
 <img width="1031" alt="Screen Shot 2022-12-15 at 16 46 40" src="https://user-images.githubusercontent.com/119345143/207974154-02ab214f-df43-4031-b2b4-588c1af47f15.png">
 The strongest correlations exist between credit amount and duration in month, as well as between credit history and the number of existing credits at this bank, which makes sense because bank accounts and number of credits generally accrue in value over time. We can also see that not a lot of the variables have very high correlations. Still, we can find some relationships have approximately r= ~ .25, and we investigated those in hopes of finding insightful patterns among different attributes which might contribute to good or bad credit evaluation.
 
+<img width="1009" alt="Screen Shot 2022-12-15 at 16 48 29" src="https://user-images.githubusercontent.com/119345143/207974408-5c5ca192-ac2b-4a1b-ba4b-8efe3bdf93a5.png">
 
+<img width="525" alt="Screen Shot 2022-12-15 at 16 49 01" src="https://user-images.githubusercontent.com/119345143/207974476-31202b76-4447-4f7e-94ad-a88a9af365e7.png">
+<img width="293" alt="Screen Shot 2022-12-15 at 16 49 16" src="https://user-images.githubusercontent.com/119345143/207974518-8bdbecff-d4b3-46d7-9b46-de23ecaf716d.png">
+From the graph we can see that the dataset has a larger proportion of cases that are foreign workers. And according to the table we got, foreign workers have a higher possibility to be evaluated as a bad risk.
