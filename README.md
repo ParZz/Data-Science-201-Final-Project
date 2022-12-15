@@ -33,3 +33,16 @@ From the graph we can see that the dataset has a larger proportion of cases that
 <img width="516" alt="Screen Shot 2022-12-15 at 16 50 36" src="https://user-images.githubusercontent.com/119345143/207974694-a9ffdcd6-6b06-4955-994f-377cdcd577bd.png">
 <img width="242" alt="Screen Shot 2022-12-15 at 16 50 49" src="https://user-images.githubusercontent.com/119345143/207974713-7c2a5f18-2064-404b-987f-d5f4694e1c39.png">
 From the graph we can see that a majority of cases in the dataset are single male, with some divorced/separated/married female, and a smaller proportion are composed of divorced/separated male and married/widowed male. And there is no single female in our dataset. From the table we can see that, compared to those of divorced/separated/married female and divorced/separated male groups, a larger proportion of cases in single male and married male groups are considered to be in the good risk group (vs. the bad risk group). This suggests that divorced/separated/married females and divorced/separated males are more likely to hold good credit risk compared to the other two groups.
+
+<img width="518" alt="Screen Shot 2022-12-15 at 16 51 37" src="https://user-images.githubusercontent.com/119345143/207974834-2f2b7cac-aea9-4101-adcb-8f596ce20bf3.png">
+<img width="1035" alt="Screen Shot 2022-12-15 at 16 51 51" src="https://user-images.githubusercontent.com/119345143/207974867-89caa0ed-a35b-40ba-914b-f51293d93f9e.png">
+
+<img width="1018" alt="Screen Shot 2022-12-15 at 16 52 04" src="https://user-images.githubusercontent.com/119345143/207974905-2aaa7845-22d3-470f-a436-8bc59ccb0a77.png">
+<img width="996" alt="Screen Shot 2022-12-15 at 16 52 16" src="https://user-images.githubusercontent.com/119345143/207974929-7be33ee5-0680-4fac-8e24-21bebb8f9b3e.png">
+
+<img width="1027" alt="Screen Shot 2022-12-15 at 16 52 29" src="https://user-images.githubusercontent.com/119345143/207974970-a679d821-ad64-40f1-9bab-731ff9a090ac.png">
+
+<img width="1032" alt="Screen Shot 2022-12-15 at 16 52 42" src="https://user-images.githubusercontent.com/119345143/207974992-65978f8f-b29c-4808-857e-c9be727d0d87.png">
+
+<img width="1016" alt="Screen Shot 2022-12-15 at 16 52 54" src="https://user-images.githubusercontent.com/119345143/207975028-80dcf49d-3621-4ae5-a52a-eeb8b2c07df7.png">
+
