@@ -6,9 +6,9 @@
 
 ### Link to the tutorial video: 
 
-### Link to the professional presentation video:
+### Link to the professional presentation video: 
 
-### Link to the Colab file which contains all steps of data science process: 
+### Link to the Colab file which contains all steps of data science process: https://colab.research.google.com/drive/1T45u4wlltSvrkunCWOOIauEWC6GdgwGY?usp=sharing
 
 ### Link to the project page: 
 
