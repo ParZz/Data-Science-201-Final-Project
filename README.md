@@ -4,7 +4,7 @@
 
 
 
-### Link to the tutorial video: 
+### Link to the tutorial video: https://youtu.be/V5OA2uF7Pas
 
 ### Link to the professional presentation video: 
 
