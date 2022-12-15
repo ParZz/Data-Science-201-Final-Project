@@ -10,7 +10,7 @@
 
 ### Link to the Colab file which contains all steps of data science process: https://colab.research.google.com/drive/1T45u4wlltSvrkunCWOOIauEWC6GdgwGY?usp=sharing
 
-### Link to the project page: 
+### Link to the project page: https://github.com/ParZz/Data-Science-201-Final-Project
 
 
 
