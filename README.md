@@ -16,6 +16,7 @@
 
 #### A brief introduction to the project:
 
+In this project, we are trying to use knowledges we learned in class to  briefly analysis the German credit risk dataset and make a machine learning model to evaluate the risk level of clients. We include a tutorial that will walk users through the entire data science process: Business Understanding>Data Understanding> Data Preparation> Modeling+ Evaluating (EDA+ Machine Learning Model Training)>Deployment. The objective is to gain actionable insights about what factors can impact the evaluation of credit risk level of certain clients, and use this knowledge to prototype reliable machine learning algorism in classifying the risk standing of those who are going to open a loan.
 
 
 
