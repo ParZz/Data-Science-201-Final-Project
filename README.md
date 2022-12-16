@@ -6,7 +6,7 @@
 
 ### Link to the tutorial video: https://youtu.be/V5OA2uF7Pas
 
-### Link to the professional presentation video: 
+### Link to the professional presentation video: https://youtu.be/c_K_IKIw06w
 
 ### Link to the Colab file which contains all steps of data science process: https://colab.research.google.com/drive/1T45u4wlltSvrkunCWOOIauEWC6GdgwGY?usp=sharing
 
